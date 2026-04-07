@@ -9,7 +9,7 @@ export function Footer() {
           {/* Brand */}
           <div>
             <Image
-              src="/logos/loopa-logo-white.svg"
+              src="/logos/Loopa_logo_final.webp"
               alt="Loopa"
               width={64}
               height={64}

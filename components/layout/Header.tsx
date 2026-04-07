@@ -59,7 +59,7 @@ export function Header() {
               onClick={() => scrollToSection("about")}
               className="text-white/80 hover:text-[#EF9622] transition-colors duration-300"
             >
-              About Us
+              Why Loopa
             </button>
             <button
               onClick={() => scrollToSection("waitlist")}
@@ -103,7 +103,7 @@ export function Header() {
                 onClick={() => scrollToSection("about")}
                 className="text-white/80 hover:text-white transition-colors text-left"
               >
-                About Us
+                Why Loopa
               </button>
               <button
                 onClick={() => scrollToSection("waitlist")}
