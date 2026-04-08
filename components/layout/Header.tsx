@@ -62,6 +62,18 @@ export function Header() {
               Why Loopa
             </button>
             <button
+              onClick={() => scrollToSection("about-us")}
+              className="text-white/80 hover:text-[#EF9622] transition-colors duration-300"
+            >
+              Meet the Team
+            </button>
+            <button
+              onClick={() => scrollToSection("get-app")}
+              className="text-white/80 hover:text-[#EF9622] transition-colors duration-300"
+            >
+              Get App
+            </button>
+            <button
               onClick={() => scrollToSection("waitlist")}
               className="px-6 py-2.5 bg-white text-black rounded-full transition-all duration-300 hover:bg-[#EF9622] hover:text-white hover:shadow-lg hover:shadow-[#EF9622]/30 hover:scale-105"
             >
@@ -104,6 +116,18 @@ export function Header() {
                 className="text-white/80 hover:text-white transition-colors text-left"
               >
                 Why Loopa
+              </button>
+              <button
+                onClick={() => scrollToSection("about-us")}
+                className="text-white/80 hover:text-white transition-colors text-left"
+              >
+                Meet the Team
+              </button>
+              <button
+                onClick={() => scrollToSection("get-app")}
+                className="text-white/80 hover:text-white transition-colors text-left"
+              >
+                Get App
               </button>
               <button
                 onClick={() => scrollToSection("waitlist")}

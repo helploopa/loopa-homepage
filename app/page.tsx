@@ -4,6 +4,8 @@ import { Hero } from "@/components/sections/Hero";
 import { FeaturedMakers } from "@/components/sections/FeaturedMakers";
 import { HowItWorks } from "@/components/sections/HowItWorks";
 import { WhyLoopa } from "@/components/sections/WhyLoopa";
+import { AboutUs } from "@/components/sections/AboutUs";
+import { GetApp } from "@/components/sections/GetApp";
 import { Waitlist } from "@/components/sections/Waitlist";
 import type { Product } from "@/types";
 
@@ -65,6 +67,8 @@ export default function Home() {
       <FeaturedMakers products={products} />
       <HowItWorks />
       <WhyLoopa />
+      <AboutUs />
+      <GetApp />
       <Waitlist />
       <Footer />
     </div>
