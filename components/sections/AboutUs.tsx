@@ -11,7 +11,7 @@ const founders = [
     image: "/images/team/sarathbabu.png",
   },
   {
-    name: "Santosh",
+    name: "SantosKumar",
     role: "Co-Founder",
     bio: "Seasoned IT professional with a strong educational foundation in computer science and business management, complemented by extensive experience in designing and building highly scalable business applications. Proven track record as a catalyst in incubating and supporting multiple startup ventures, driving innovation and growth.\n\nBeyond professional pursuits, a dedicated father to a teenager with a passion for hiking and motorcycling, embracing both adventure and balance in life.",
     image: "/images/team/santosh.png",

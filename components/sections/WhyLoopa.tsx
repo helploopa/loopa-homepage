@@ -28,7 +28,7 @@ export function WhyLoopa() {
               </p>
               <p>
                 We&apos;re reimagining neighbourhood commerce by bringing back the charm of
-                hyperlocal shopping—where makers can share their crafts, and neighbours can
+                hyperlocal shopping—where makers can share their crafts, and neighbors can
                 discover unique goods just steps from home.
               </p>
               <p>

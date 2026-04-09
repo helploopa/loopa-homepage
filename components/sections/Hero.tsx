@@ -149,7 +149,7 @@ export function Hero() {
             </AnimatePresence>
           </div>
           <br />
-          <span className="italic">Neighbours</span>{" "}
+          <span className="italic">Neighbors</span>{" "}
           <span style={{ color: "#EF9622" }}>for real</span>
         </h1>
       </div>
